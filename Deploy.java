@@ -1,5 +1,5 @@
 This file contains the deployment logic
-Iam indev branch ..
+Iam in dev branch ..
 
 Hello updating again..
 
